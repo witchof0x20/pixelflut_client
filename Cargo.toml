@@ -1,0 +1,11 @@
+[package]
+name = "pixelflut_client"
+version = "0.1.0"
+authors = ["jade"]
+edition = "2018"
+
+[dependencies]
+futures = "0.1"
+hex = "0.3"
+image = "0.20"
+tokio = "0.1"
